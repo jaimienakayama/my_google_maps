@@ -1,6 +1,7 @@
 # my_google_maps
 
 This project uses the Google Maps API.
+The location shown is Fresh Meadows, NY.
 
 Sign up for an API key here: https://developers.google.com/maps/gmp-get-started
 
