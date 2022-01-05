@@ -7,6 +7,8 @@ Sign up for an API key here: https://developers.google.com/maps/gmp-get-started
 
 Icons used are from https://openmoji.org/
 
+![Alt text](/Users/jaimie/Documents/MyGoogleMaps.png?raw=true "Title")
+
 ## Setup
 
 Create a `config.js` file using the `example.config.js` file.
