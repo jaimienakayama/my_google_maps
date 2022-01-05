@@ -8,6 +8,7 @@ Sign up for an API key here: https://developers.google.com/maps/gmp-get-started
 Icons used are from https://openmoji.org/
 
 ![My Google Maps](https://imagizer.imageshack.com/v2/1024x768q90/923/Kze9yv.png "Optional title")
+![My Google Maps](https://imagizer.imageshack.com/v2/1024x768q90/922/LUDMUz.png "Optional title")
 
 ## Setup
 
